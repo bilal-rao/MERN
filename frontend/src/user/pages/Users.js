@@ -4,7 +4,7 @@ import UsersList from "../components/UsersList";
 const Users = () => {
   const USERS = [
     {
-      id: 1,
+      id: 'u1',
       name: "Bilal",
       image: "https://randomuser.me/api/portraits/men/62.jpg",
       places: 3,
